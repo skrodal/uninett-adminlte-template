@@ -7,3 +7,5 @@ Demo: https://service.ecampus.no/client/uninett-adminlte-template/
 It would make absolutely no sense for non-UNINETT sites to make use of this template as a starting point. Go get AdminLTE from source instead! 
 
 The Colfax font is licensed separately and not included. Drop the fonts in /app/fonts/colfax.
+
+![Preview](/app/img/UNINETT_AdminLTE_Template.png)
