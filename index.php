@@ -14,6 +14,8 @@
     <link href="app/css/AdminLTE.min.css" rel="stylesheet" type="text/css"/>
     <!-- Site skin -->
     <link href="app/css/skins/skin-black.min.css" rel="stylesheet" type="text/css"/>
+    <!-- App-specific CSS -->
+    <link href="app/css/app.css" rel="stylesheet" type="text/css"/>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'colfaxThin';
+    src: url('../fonts/colfax/colfaxThin.eot');
+    src: url('../fonts/colfax/colfaxThin.eot?#iefix') format('embedded-opentype'), url('../fonts/colfax/colfaxThin.woff') format('woff'), url('../fonts/colfax/colfaxThin.ttf') format('truetype'), url('../fonts/colfax/colfaxThin.svg#webfont') format('svg')
+}
+
+@font-face {
+    font-family: 'colfaxLight';
+    src: url('../fonts/colfax/colfaxLight.eot');
+    src: url('../fonts/colfax/colfaxLight.eot?#iefix') format('embedded-opentype'), url('../fonts/colfax/colfaxLight.woff') format('woff'), url('../fonts/colfax/colfaxLight.ttf') format('truetype'), url('../fonts/colfax/colfaxLight.svg#webfont') format('svg')
+}
+
+@font-face {
+    font-family: 'colfaxRegular';
+    src: url('../fonts/colfax/colfaxRegular.eot');
+    src: url('../fonts/colfax/colfaxRegular.eot?#iefix') format('embedded-opentype'), url('../fonts/colfax/colfaxRegular.woff') format('woff'), url('../fonts/colfax/colfaxRegular.ttf') format('truetype'), url('../fonts/colfax/colfaxRegular.svg#webfont') format('svg')
+}
+
+@font-face {
+    font-family: 'colfaxRegularItalic';
+    src: url('../fonts/colfax/colfaxRegularItalic.eot');
+    src: url('../fonts/colfax/colfaxRegularItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/colfax/colfaxRegularItalic.woff') format('woff'), url('../fonts/colfax/colfaxRegularItalic.ttf') format('truetype'), url('../fonts/colfax/colfaxRegularItalic.svg#webfont') format('svg')
+}
+
+@font-face {
+    font-family: 'colfaxMedium';
+    src: url('../fonts/colfax/colfaxMedium.eot');
+    src: url('../fonts/colfax/colfaxMedium.eot?#iefix') format('embedded-opentype'), url('../fonts/colfax/colfaxMedium.woff') format('woff'), url('../fonts/colfax/colfaxMedium.ttf') format('truetype'), url('../fonts/colfax/colfaxMedium.svg#webfont') format('svg')
+}
+
+@font-face {
+    font-family: 'colfaxBold';
+    src: url('../fonts/colfax/colfaxBold.eot');
+    src: url('../fonts/colfax/colfaxBold.eot?#iefix') format('embedded-opentype'), url('../fonts/colfax/colfaxBold.woff') format('woff'), url('../fonts/colfax/colfaxBold.ttf') format('truetype'), url('../fonts/colfax/colfaxBold.svg#webfont') format('svg')
+}
